@@ -14,3 +14,7 @@
     margin 0;
     height: 750px;
 }
+
+nav{
+    background-color: black !important;
+}
